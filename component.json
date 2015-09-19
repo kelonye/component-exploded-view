@@ -1,0 +1,17 @@
+{
+  "name": "component-exploded-view",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "dependencies": {
+    "kelonye/jquery": "1.10.2"
+  },
+  "scripts": [
+    "lib/index.js",
+    "lib/grid.js",
+    "lib/modernizr.js"
+  ],
+  "styles": [
+    "lib/style.css"
+  ],
+  "license": "MIT"
+}
